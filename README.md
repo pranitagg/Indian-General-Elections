@@ -21,5 +21,5 @@ India = {'NORTH INDIA': ['Jammu & Kashmir', 'Himachal Pradesh', 'Punjab', 'Harya
          'EAST INDIA': ["Bihar", "Jharkhand", "West Bengal", "Odisha", "Andaman & Nicobar Islands"], 
          'NORTH-EAST INDIA': ['Assam', 'Arunachal Pradesh', 'Manipur', 'Meghalaya', 'Mizoram', 'Nagaland', 'Sikkim', 'Tripura']}
 
-# group the states into 6 regions
+
 
